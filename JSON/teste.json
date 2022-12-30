@@ -1,0 +1,13 @@
+
+    [
+        {
+            "nome": "Nicole",
+            "idade": 23,
+            "esta_trabalhando": true,
+            "detalhes_profissao": {
+                "profissao": "Desenvolvedora",
+                "empresa": "Empresa X"
+            },
+            "hobbies": ["Jogar", "Ler", "Dançar"]
+        }
+    ]
